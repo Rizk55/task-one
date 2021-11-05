@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+  text-align: center;
+  padding: 35px;
+
+}
+.nav-one {
+    background-color: rgb(122, 115, 115);
+    display: flex;
+    margin-bottom: 30px;
+    padding: 20px;
+
+}
+.nav-one a {
+    text-decoration: none;
+    color: white;
+    margin-left: 55px;
+}
+.left {
+    flex-basis: 82%;
+    text-align: right;
+}
+.risk {
+    display: flex;
+    flex-direction: row;
+}
+.text {
+    background-color: #dcfcdf;
+    padding: 10px;
+    margin:20px;
+
+}
+.kik{
+    width: 100%;
+    margin-top: 10px;
+    height: 160px;
+    background-color:  rgb(122, 115, 115);
+    padding:3px;
+}
+.yes{
+    background-color:  rgb(122, 115, 115);
+    padding: 20px;
+    margin: 10px;
+}
+.yes .img {
+    height: 20px;
+    background-color: wheat;
+}
+.yes .img a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.follw{
+    background-color: #dcfcdf;
+    padding: 10px;
+    margin: 30px 0 10px 10px;
+}
+.yoou {
+    flex-basis: 37%
+}
+.one {
+    flex-basis: 66%;
+}
+.footer {
+    background-color: black;
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
